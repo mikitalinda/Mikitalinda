@@ -5,5 +5,5 @@ Contacto 📬: micaela.taini@alu.ing.unlp.edu.ar
 
 Mis repositorios 📚📖: 
 
-![Uploading pipo.gif…]()
+#![Uploading pipo.gif…]()
 
