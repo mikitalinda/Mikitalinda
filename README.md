@@ -4,4 +4,5 @@ Actualemente estoy estudiando la carrera Ingenieria en Computacion en la unlp �
 Contacto 📬: micaela.taini@alu.ing.unlp.edu.ar
 
 Mis repositorios 📚📖: 
-![kirara](https://github.com/user-attachments/assets/6ead06af-ab7d-4e04-bf5c-1a47faa93544)
+![Uploading pipo.gif…]()
+
